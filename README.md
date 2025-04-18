@@ -1,3 +1,5 @@
+#18-Apr-2025 90% complete Currency Converter project.
+
 #17-Apr-2025: I had made the whole thing by watching YouTube, but it didn’t work properly and I didn’t even understand how it was made. I got so frustrated that I deleted the entire project. Now I’ll start again and make the currency converter myself this time. 😤
 
 
